@@ -168,7 +168,8 @@ WM efficiency, Passing Success and Shot Creating Actions to just one.
 just copy my code below to your own RStudio and run it. There are a couple of 
 things to check first. One, make sure your newly created dataframe is called
 'MSc_data' like mine is and make sure you read in the same file I did (the 
-one available on the GitHub page: GitHub here).
+one available on the GitHub page: 
+https://github.com/brimmelljack/RaincloudsMSc-SEP7006).
 
 ```{r - changing character to numeric}
 MSc_data$gender <- as.numeric(factor(MSc_data$gender))
@@ -327,7 +328,7 @@ learning a new skill and if you have any questions reach out to me on
 J.Brimmell@bolton.ac.uk or on Twitter @JACKBRIMMELL.
 
 (C) Dr. Jack Brimmell. Feel free to share with credit to original github page:
-GITHUB
+[GITHUB](https://github.com/brimmelljack/RaincloudsMSc-SEP7006)
 
 
 **References**
